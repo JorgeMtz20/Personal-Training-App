@@ -1,6 +1,7 @@
 Senior Project Proposal - UTRGV
 Student : Jorge Martinez
-Advisor : : Erik Enriquez
+
+Advisor : Erik Enriquez
 
 Background:
 I’m a big advocate of fitness and health. I want to combine my skills as a certified personal 
