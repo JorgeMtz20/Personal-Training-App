@@ -43,7 +43,7 @@
     "name": "Zottman Curl",
     "type": "strength",
     "muscle": "biceps",
-    "equipment": "None",
+    "equipment": "dumbbell",
     "difficulty": "intermediate",
     "instructions": "Stand up with your torso upright and a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Make sure the palms of the hands are facing each other. This will be your starting position. While holding the upper arm stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Your wrist should rotate so that you have a supinated (palms up) grip. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Now during the contracted position, rotate your wrist until you now have a pronated (palms facing down) grip with the thumb at a higher position than the pinky. Slowly begin to bring the dumbbells back down using the pronated grip. As the dumbbells close your thighs, start rotating the wrist so that you go back to a neutral (palms facing your body) grip. Repeat for the recommended amount of repetitions."
   },
@@ -78,5 +78,402 @@
     "equipment": "dumbbell",
     "difficulty": "beginner",
     "instructions": "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them. Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand. Let your arms hang down on your sides, with the elbows in, and turn the palms of your hands forward with the thumbs pointing away from the body. Tip: You will keep this hand position throughout the movement as there should not be any twisting of the hands as they come up. This will be your starting position. Curl up the two dumbbells at the same time until your biceps are fully contracted and exhale. Tip: Do not swing the arms or use momentum. Keep a controlled motion at all times. Hold the contracted position for a second at the top. As you inhale, slowly go back to the starting position. Repeat for the recommended amount of repetitions.  Caution: Do not extend your arms totally as you could injure your elbows if you hyperextend them. Also, make sure that on the way down you move slowly to avoid injury. Variations: You can use cables for this movement as well."
-  }
+  },
+  {
+    "name": "Barbell Bench Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Lie flat on a bench with your feet planted firmly on the ground. Grip the barbell with your hands slightly wider than shoulder-width apart, palms facing away from you. Lower the barbell to your chest while keeping your elbows at a 45-degree angle to your body. Push the barbell back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with dumbbells for unilateral work. Additionally, you can try incline or decline bench press variations to target different areas of the chest."
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing inward. Extend your arms straight above your chest with a slight bend in your elbows. Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest. Bring the dumbbells back up to the starting position, squeezing your chest muscles. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise on an incline or decline bench for variation. Additionally, you can try cable flyes for a different angle of resistance."
+  },
+  {
+    "name": "Push-ups",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Start in a plank position with your hands slightly wider than shoulder-width apart, arms fully extended, and body in a straight line from head to heels. Lower your body by bending your elbows until your chest nearly touches the ground. Push yourself back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise on your knees for a modified version. Additionally, you can try different hand placements, such as diamond push-ups or wide-grip push-ups, to target different areas of the chest."
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Set an incline bench to a 30-45 degree angle. Lie back on the bench with a dumbbell in each hand, palms facing away from you. Press the dumbbells up above your chest until your arms are fully extended. Lower the dumbbells back down to chest level, keeping your elbows at a 45-degree angle to your body. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise on a decline bench for variation. Additionally, you can try alternating dumbbell presses for unilateral work."
+  },
+  {
+    "name": "Chest Dips",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Stand between parallel bars and grip each bar with your palms facing inward. Jump up, straightening your arms, and cross your ankles behind you. Lower your body by bending your elbows until your upper arms are parallel to the ground. Push yourself back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise using a dip machine for assistance or add weight for resistance. Additionally, you can try leaning forward to emphasize the chest muscles."
+  },
+  {
+    "name": "Leg Press",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "instructions": "Sit on the leg press machine with your back flat against the backrest and your feet shoulder-width apart on the footplate. Release the safety and push the footplate away from you until your legs are fully extended. Lower the footplate back down, bending your knees until they reach a 90-degree angle. Push the footplate away again to return to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different foot placements to target different areas of the legs. Additionally, you can try single-leg presses for unilateral work."
+  },
+  {
+    "name": "Barbell Squat",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet shoulder-width apart and a barbell across your upper back. Engage your core and keep your chest up as you bend your knees and lower your body into a squat position, pushing your hips back as if sitting in a chair. Lower yourself until your thighs are parallel to the ground, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different stances, such as wide or narrow, to target different areas of the legs. Additionally, you can try front squats for variation."
+  },
+  {
+    "name": "Walking Lunges",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Stand with your feet hip-width apart and hands on your hips. Take a large step forward with your right foot, bending both knees to lower your body into a lunge position. Push through your right heel to return to the starting position and repeat with your left leg. Continue alternating legs as you walk forward. Repeat for the desired distance or number of repetitions.",
+    "variations": "You can perform this exercise with dumbbells or a barbell for added resistance. Additionally, you can try reverse lunges or lateral lunges for variation."
+  },
+  {
+    "name": "Leg Extensions",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "machine",
+    "difficulty": "beginner",
+    "instructions": "Sit on the leg extension machine with your knees bent at a 90-degree angle and your shins under the padded lever. Grip the handles for stability and extend your legs, lifting the padded lever until your legs are fully extended. Lower the padded lever back down to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different foot positions, such as toes pointed in or out, to target different areas of the quadriceps. Additionally, you can try single-leg extensions for unilateral work."
+  },
+  {
+    "name": "Romanian Deadlift",
+    "type": "strength",
+    "muscle": "hamstrings",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet hip-width apart and hold a barbell with an overhand grip, hands shoulder-width apart. Engage your core and hinge at your hips to lower the barbell towards the ground, keeping your back straight and knees slightly bent. Lower the barbell until you feel a stretch in your hamstrings, then reverse the motion to return to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with dumbbells for unilateral work. Additionally, you can try stiff-legged deadlifts for variation."
+  },
+  {
+    "name": "Barbell Deadlift",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet shoulder-width apart and a barbell on the ground in front of you. Squat down and grip the barbell with an overhand grip, hands shoulder-width apart. Keep your back straight, chest up, and arms fully extended. Engage your core and push through your heels to lift the barbell off the ground, keeping it close to your body as you stand up straight. Lower the barbell back down to the ground in a controlled manner. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a mixed grip, with one hand overhand and one hand underhand, for added grip strength. Additionally, you can try sumo deadlifts for variation."
+  },
+  {
+    "name": "Pull-ups",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Hang from a pull-up bar with your hands slightly wider than shoulder-width apart, palms facing away from you. Engage your core and pull yourself up until your chin is above the bar, keeping your chest up and shoulders down. Lower yourself back down to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a narrow grip or wide grip to target different areas of the back. Additionally, you can try assisted pull-ups with a resistance band or pull-up machine."
+  },
+  {
+    "name": "Dumbbell Rows",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet hip-width apart, holding a dumbbell in each hand with your palms facing each other. Hinge at your hips and lower your torso until it is almost parallel to the ground. Keep your back straight and chest up. Pull the dumbbells up towards your ribcage, keeping your elbows close to your body and squeezing your shoulder blades together at the top of the movement. Lower the dumbbells back down to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with one arm at a time for unilateral work. Additionally, you can try bent-over barbell rows for variation."
+  },
+  {
+    "name": "Lat Pulldowns",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "cable machine",
+    "difficulty": "beginner",
+    "instructions": "Sit at a lat pulldown machine with your knees secured under the pads and your hands gripping the bar wider than shoulder-width apart, palms facing away from you. Pull the bar down towards your chest, keeping your chest up and shoulders down. Squeeze your shoulder blades together at the bottom of the movement. Slowly release the bar back up to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different hand positions, such as a close grip or reverse grip, to target different areas of the back. Additionally, you can try single-arm lat pulldowns for unilateral work."
+  },
+  {
+    "name": "T-Bar Rows",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Straddle a T-bar row machine with your feet shoulder-width apart and grip the handles with an overhand grip. Keep your back straight and chest up as you hinge at your hips to lower your torso until it is almost parallel to the ground. Pull the handles towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together at the top of the movement. Lower the handles back down to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different grip variations, such as a neutral grip or wide grip, to target different areas of the back. Additionally, you can try seated cable rows for variation."
+  },
+  {
+    "name": "Good Mornings",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet hip-width apart and a barbell across your upper back. Engage your core and keep your chest up as you hinge at your hips to lower your torso forward until it is parallel to the ground. Keep a slight bend in your knees throughout the movement. Reverse the motion to return to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with dumbbells or a resistance band for variation. Additionally, you can try Romanian deadlifts for a similar movement targeting the hamstrings."
+  },
+  {
+    "name": "Hyperextensions",
+    "type": "strength",
+    "muscle": "lower back",
+    "equipment": "hyperextension bench",
+    "difficulty": "beginner",
+    "instructions": "Position yourself on a hyperextension bench with your ankles secured under the footpads and your upper body hanging off the edge. Cross your arms over your chest or place your hands behind your head. Engage your lower back muscles and lift your upper body until it is in line with your legs. Lower your upper body back down to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a weighted plate held to your chest for added resistance. Additionally, you can try single-leg hyperextensions for unilateral work."
+  },
+  {
+    "name": "Seated Cable Rows",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "cable machine",
+    "difficulty": "beginner",
+    "instructions": "Sit at a cable row machine with your feet flat on the footplate and your knees slightly bent. Grip the handles with an overhand grip, palms facing each other. Keep your back straight and chest up as you pull the handles towards your torso, squeezing your shoulder blades together at the end of the movement. Slowly release the handles back to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different handle attachments, such as a V-bar or straight bar, to target different areas of the back. Additionally, you can try single-arm cable rows for unilateral work."
+  },
+  {
+    "name": "Crunches",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Lie on your back with your knees bent and feet flat on the ground. Place your hands behind your head or crossed over your chest. Engage your core and lift your shoulder blades off the ground, bringing your chest towards your knees. Hold for a moment at the top of the movement before lowering back down. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise on a stability ball for added challenge. Additionally, you can try reverse crunches by lifting your hips off the ground instead of your shoulders."
+  },
+  {
+    "name": "Plank",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Start in a push-up position with your elbows bent and resting on the ground, forearms flat on the floor. Engage your core and straighten your body into a plank position, balancing on your toes and forearms. Keep your body in a straight line from head to heels, avoiding sagging or arching. Hold this position for as long as possible while maintaining proper form.",
+    "variations": "You can perform side planks by rotating onto one forearm and stacking your feet on top of each other. Additionally, you can try plank variations such as plank with leg lifts or plank with shoulder taps for added challenge."
+  },
+  {
+    "name": "Russian Twists",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Sit on the ground with your knees bent and feet flat on the floor. Lean back slightly and lift your feet off the ground, balancing on your sit bones. Clasp your hands together in front of you or hold a weight for added resistance. Rotate your torso to the right, bringing your clasped hands or weight towards the ground beside your hip. Return to the center and repeat on the left side. Continue alternating sides for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a medicine ball or dumbbell for added resistance. Additionally, you can try bicycle crunches for a similar movement targeting the obliques."
+  },
+  {
+    "name": "Leg Raises",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Lie on your back with your legs straight and arms by your sides, palms facing down. Engage your core and lift your legs off the ground, keeping them straight. Lift your legs until they are perpendicular to the ground or as high as you can comfortably go. Slowly lower your legs back down to the starting position, keeping them under control. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with your knees bent to make it easier. Additionally, you can try hanging leg raises using a pull-up bar for added challenge."
+  },
+  {
+    "name": "Mountain Climbers",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Start in a push-up position with your hands directly under your shoulders and your body in a straight line from head to heels. Engage your core and lift your right foot off the ground, bringing your knee towards your chest. Quickly switch legs, bringing your left knee towards your chest while extending your right leg back. Continue alternating legs at a rapid pace, as if you are running in place. Keep your hips level and core engaged throughout the movement.",
+    "variations": "You can perform this exercise on a stability ball for added challenge. Additionally, you can try cross-body mountain climbers by bringing your knee towards the opposite elbow."
+  },
+  {
+    "name": "Reverse Crunches",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Lie on your back with your knees bent and feet flat on the ground. Place your hands by your sides or under your hips for support. Engage your core and lift your legs off the ground, bringing your knees towards your chest. Slowly lower your legs back down to the starting position, keeping them under control. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with straight legs for added challenge. Additionally, you can try reverse crunches on a decline bench for a greater range of motion."
+  },
+  {
+    "name": "Hanging Leg Raises",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "pull-up bar",
+    "difficulty": "advanced",
+    "instructions": "Hang from a pull-up bar with your arms fully extended and your feet off the ground. Engage your core and lift your legs towards your chest, keeping them straight. Continue lifting until your legs are perpendicular to the ground or as high as you can comfortably go. Slowly lower your legs back down to the starting position, keeping them under control. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with bent knees to make it easier. Additionally, you can try hanging knee raises or windshield wipers for variation."
+  },
+  {
+    "name": "Standing Oblique Crunches",
+    "type": "strength",
+    "muscle": "obliques",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet hip-width apart and hands behind your head. Engage your core and lift your right knee towards your right elbow, crunching your torso to the side. Return to the starting position and repeat on the left side. Continue alternating sides for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a weight held in one hand for added resistance. Additionally, you can try seated oblique crunches or side plank dips for variation."
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Sit on a bench with back support and hold a dumbbell in each hand at shoulder height, palms facing forward. Press the dumbbells overhead until your arms are fully extended, but not locked out. Lower the dumbbells back to shoulder height and repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise standing for added core engagement. Additionally, you can try alternating shoulder presses for unilateral work."
+  },
+  {
+    "name": "Lateral Raises",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Stand with a dumbbell in each hand, arms by your sides, palms facing your body. Keeping a slight bend in your elbows, raise your arms out to the sides until they are parallel to the ground. Slowly lower the dumbbells back to the starting position and repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise seated for added stability. Additionally, you can try front raises or bent-over lateral raises for variation."
+  },
+  {
+    "name": "Front Raises",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Stand with a dumbbell in each hand, arms by your sides, palms facing your body. Keeping a slight bend in your elbows, raise your arms in front of you until they are parallel to the ground. Slowly lower the dumbbells back to the starting position and repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with both arms simultaneously or one arm at a time for unilateral work. Additionally, you can try alternating front raises for variation."
+  },
+  {
+    "name": "Barbell Upright Rows",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands shoulder-width apart. Keep the barbell close to your body as you lift it straight up towards your chin, leading with your elbows. Pause at the top of the movement, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with an EZ bar or dumbbells for variation. Additionally, you can try wide grip upright rows for a different shoulder angle."
+  },
+  {
+    "name": "Reverse Flyes",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with a dumbbell in each hand, palms facing each other. Hinge at your hips to lean forward, keeping your back straight and a slight bend in your knees. Raise your arms out to the sides until they are parallel to the ground, squeezing your shoulder blades together. Slowly lower the dumbbells back to the starting position and repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise lying face down on an incline bench for added stability. Additionally, you can try cable reverse flyes for constant tension."
+  },
+  {
+    "name": "Arnold Press",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Sit on a bench with back support and hold a dumbbell in each hand at shoulder height, palms facing your body. Press the dumbbells overhead while rotating your palms to face forward at the top of the movement. Reverse the motion to lower the dumbbells back to shoulder height. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise standing for added core engagement. Additionally, you can try alternating Arnold presses for unilateral work."
+  },
+  {
+    "name": "Dumbbell Shrugs",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Stand with a dumbbell in each hand by your sides, palms facing your body. Shrug your shoulders up towards your ears, squeezing your traps at the top of the movement. Slowly lower the dumbbells back to the starting position and repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a barbell or Smith machine for variation. Additionally, you can try single-arm dumbbell shrugs for unilateral work."
+  },
+  {
+    "name": "Seated Dumbbell Lateral Raises",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Sit on a bench with back support and hold a dumbbell in each hand, palms facing your body. Keeping a slight bend in your elbows, raise your arms out to the sides until they are parallel to the ground. Slowly lower the dumbbells back to the starting position and repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise standing for added core engagement. Additionally, you can try cable lateral raises for constant tension."
+  },
+  {
+    "name": "Tricep Pushdowns",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "cable machine",
+    "difficulty": "beginner",
+    "instructions": "Stand facing a cable machine with a straight bar attached to the high pulley. Grab the bar with an overhand grip, hands shoulder-width apart, and extend your arms fully. Keep your elbows close to your body and your upper arms stationary as you push the bar down towards your thighs. Squeeze your triceps at the bottom of the movement, then slowly release the bar back up to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with different handle attachments, such as a rope or V-bar, for variation. Additionally, you can try single-arm tricep pushdowns for unilateral work."
+  },
+  {
+    "name": "Close-Grip Bench Press",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Lie on a flat bench with a barbell racked above your chest. Grip the barbell with your hands closer than shoulder-width apart, palms facing forward. Lower the barbell to your chest, keeping your elbows close to your body. Push the barbell back up to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with dumbbells for added stability. Additionally, you can try incline close-grip bench press for a different angle."
+  },
+  {
+    "name": "Overhead Dumbbell Extension",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand or sit on a bench with a dumbbell held in both hands overhead, arms fully extended. Keeping your upper arms close to your head, lower the dumbbell behind your head by bending your elbows. Keep your elbows stationary and avoid arching your back. Extend your arms fully to lift the dumbbell back up to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with one dumbbell held with both hands or with a single dumbbell in each hand. Additionally, you can try lying tricep extensions for a different angle."
+  },
+  {
+    "name": "Tricep Kickbacks",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Stand with a dumbbell in each hand, palms facing in, and hinge forward at your hips until your torso is nearly parallel to the ground. Bend your elbows to bring the dumbbells towards your sides, then extend your arms fully behind you, squeezing your triceps at the top of the movement. Slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a resistance band attached to a fixed object for added resistance. Additionally, you can try single-arm tricep kickbacks for unilateral work."
+  },
+  {
+    "name": "Tricep Rope Pushdowns",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "cable machine",
+    "difficulty": "beginner",
+    "instructions": "Attach a rope attachment to a high pulley on a cable machine. Stand facing the machine with your feet shoulder-width apart and grip the ends of the rope with your palms facing each other. Keeping your elbows close to your body, push the rope downwards until your arms are fully extended. Squeeze your triceps at the bottom of the movement, then slowly release the rope back up to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a single-arm attachment for unilateral work. Additionally, you can try reverse grip tricep pushdowns for a different hand position."
+  },
+  {
+    "name": "Glute Bridge",
+    "type": "strength",
+    "muscle": "glutes",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Lie on your back with your knees bent and feet flat on the ground, hip-width apart. Engage your core and squeeze your glutes as you lift your hips towards the ceiling, forming a straight line from shoulders to knees. Hold the top position for a moment, then lower your hips back down to the starting position. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a resistance band around your thighs for added difficulty. Additionally, you can try single-leg glute bridges for unilateral work."
+  },
+  {
+    "name": "Donkey Kicks",
+    "type": "strength",
+    "muscle": "glutes",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Start on your hands and knees in a tabletop position, with your wrists under your shoulders and your knees under your hips. Keeping your right knee bent at a 90-degree angle, lift your right heel towards the ceiling, squeezing your glutes at the top of the movement. Lower your right knee back towards the ground without touching it, then repeat on the left side. Continue alternating legs for the desired number of repetitions.",
+    "variations": "You can perform this exercise with ankle weights for added resistance. Additionally, you can try fire hydrants or diagonal leg lifts for variation."
+  },
+  {
+    "name": "Calf Raises",
+    "type": "strength",
+    "muscle": "calves",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Stand with your feet hip-width apart, toes pointing forward. Press through the balls of your feet to lift your heels off the ground as high as possible, squeezing your calf muscles at the top of the movement. Lower your heels back down to the ground with control. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise on a step or raised surface for increased range of motion. Additionally, you can try single-leg calf raises for unilateral work."
+  },
+  {
+    "name": "Seated Calf Raises",
+    "type": "strength",
+    "muscle": "calves",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Sit on a chair or bench with your feet flat on the ground and a dumbbell resting on your knees. Place the balls of your feet on a raised surface such as a step or block. Press through the balls of your feet to lift your heels as high as possible, squeezing your calf muscles at the top of the movement. Lower your heels back down to the starting position with control. Repeat for the desired number of repetitions.",
+    "variations": "You can perform this exercise with a barbell across your knees for added resistance. Additionally, you can try seated calf raises with one leg at a time for unilateral work."
+  }  
+
+  
+
+
+
+
+  
+  
+  
+  
 ]
