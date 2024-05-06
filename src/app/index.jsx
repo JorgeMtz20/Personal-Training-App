@@ -12,8 +12,7 @@ export default function App() {
         contentContainerStyle={{ gap: 5 }}
         keyExtractor={(item, index) => item.name + index}
         renderItem={({ item }) => <ExerciseListItem item={item}/>}
-      />  
-     
+      />      
 
       <StatusBar style="auto" />
     </View>
