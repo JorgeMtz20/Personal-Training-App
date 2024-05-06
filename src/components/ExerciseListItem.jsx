@@ -13,14 +13,22 @@ export default function ExerciseListItem({ item }) {
     );
   }
 
-
-
   const styles = StyleSheet.create({
     exerciseContainer: {
       backgroundColor: '#fff',
       padding: 10,
       borderRadius: 10,
       gap: 5,
+
+      //shadow - if ghostwhite
+      shadowColor: '#000',
+      shadowOffset: {
+        width: 0,
+        height: 1,
+      },
+      shadowOpacity: 0.2,
+      shadowRadius: 1.41,
+      elevation: 2,
     },
   
     exerciseName: {
@@ -30,7 +38,6 @@ export default function ExerciseListItem({ item }) {
   
     exerciseSubtitle: {
       color: 'dimgray',
-  
     },
 
     subValue: {
