@@ -1,38 +1,51 @@
-import { View, Text, StyleSheet, TextInput, Button } from 'react-native';
+import { View, Text, StyleSheet, TextInput, Button, ScrollView } from 'react-native';
 import { useState } from 'react';
 
 const NewSetInput = () => {
     const [reps, setReps] = useState('');
     const [weight, setWeight] = useState('');
+    const [sets, setSets] = useState([]);
 
     const addSet = () => {
-        console.warn('Add set: ', reps, weight);
+        const newSet = { reps: reps, weight: weight };
+        console.warn('Adding set: ', newSet);
 
-        //intended to send to the db
+        // Add the new set to the sets array
+        setSets(previousSets => [...previousSets, newSet]);
 
+        // Clear the input fields
         setReps('');
         setWeight('');
+
+        
     };
 
-  return (
-    <View style={styles.container}>
-      <TextInput 
-      value={reps} 
-      onChangeText={setReps} 
-      placeholder="Reps"
-      style={styles.input}
-      keyboardType='numeric'
-      />
-      <TextInput 
-      value={weight}
-      onChangeText={setWeight}
-      placeholder="weight" 
-      style={styles.input}
-      keyboardType='numeric'
-      />
-      <Button title="Add" onPress={addSet}/>
-    </View>
-  );
+    return (
+        <View style={styles.container}>
+            <TextInput 
+                value={reps} 
+                onChangeText={setReps} 
+                placeholder="Reps"
+                style={styles.input}
+                keyboardType='numeric'
+            />
+            <TextInput 
+                value={weight}
+                onChangeText={setWeight}
+                placeholder="Weight" 
+                style={styles.input}
+                keyboardType='numeric'
+            />
+            <Button title="Add" onPress={addSet}/>
+            <ScrollView style={styles.logContainer}>
+                {sets.map((set, index) => (
+                    <Text key={index} style={styles.logText}>
+                        Reps: {set.reps}, Weight: {set.weight}
+                    </Text>
+                ))}
+            </ScrollView>
+        </View>
+    );
 };
 
 const styles = StyleSheet.create({
@@ -40,8 +53,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
         padding: 10,
         borderRadius: 5,
-        flexDirection: 'row',
-        gap: 10,
+        flexDirection: 'column', 
     },
     input: {
         borderWidth: 1,
@@ -49,8 +61,17 @@ const styles = StyleSheet.create({
         padding: 10,
         flex: 1,
         borderRadius: 5,
+        marginBottom: 10, // added margin for spacing
+    },
+    logContainer: {
+        maxHeight: 200,
+        borderWidth: 1,
+        borderColor: 'gainsboro',
+        marginTop: 10,
+    },
+    logText: {
+        padding: 10,
     }
 });
-
 
 export default NewSetInput;
